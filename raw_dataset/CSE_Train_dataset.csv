@@ -1,0 +1,90 @@
+Professor Id,Professor Name,Designation,Domains,Department,Building-Cabin,Email,No. of Journals,Feedback,Conference Level,Journal Name,Feedback Score (Out of 1000),num_id,Feedback Level,Conference Num
+CSE001,Dr. Maya Gupta,Professor,"Deep Learning, NLP",CSE,Innovation Hall - 201,dr..hmalhotra@iimt.ac.in,5,Excellent,International,Journal of Artificial Intelligence Research (JAIR),850,1,3,1
+CSE002,Dr. Rohan Khanna,Associate Professor,"Machine Learning, Computer Vision",CSE,Knowledge Center - 102,dr..hmalhotra@iimt.ac.in,3,Very Good,National,Pattern Recognition Letters,780,2,2,2
+CSE003,Dr. Anika Sharma,Assistant Professor,"LLMs, Big Data",CSE,Library Block - 304,dr..hmalhotra@iimt.ac.in,2,Good,International,ACM Transactions on Knowledge Discovery from Data (TKDD),690,3,1,1
+CSE004,Dr. Rajeev Singh,Professor,"Software Engineering, Database Management",CSE,Main Building - 405,dr..hmalhotra@iimt.ac.in,4,Outstanding,International,IEEE Transactions on Software Engineering,920,4,4,1
+CSE005,Dr. Priya Singh,Associate Professor,"Cybersecurity, Information Security",CSE,Innovation Hall - 207,dr..hmalhotra@iimt.ac.in,3,Excellent,National,Journal of Computer Security,870,5,3,2
+CSE006,Dr. Akash Jain,Assistant Professor,"Cloud Computing, Distributed Systems",CSE,Knowledge Center - 110,dr..hmalhotra@iimt.ac.in,1,Good,National,Journal of Cloud Computing Advances,710,6,1,2
+CSE007,Dr. Neha Verma,Professor,"Algorithms, Data Structures",CSE,Library Block - 312,dr..hmalhotra@iimt.ac.in,6,Very Good,International,ACM Transactions on Algorithms (TALG),810,7,2,1
+CSE008,Dr. Aditya Malhotra,Associate Professor,"Programming Languages, Compiler Design",CSE,Main Building - 401,dr..hmalhotra@iimt.ac.in,2,Good,National,Journal of Programming Languages (JPL),680,8,1,2
+CSE009,Dr. Sonia Verma,Professor,"Web Development, Human-Computer Interaction",CSE,Innovation Hall - 105,dr..hmalhotra@iimt.ac.in,4,Excellent,National,International Journal of Web Information Systems (IJWIS),830,9,3,2
+CSE010,Dr. Rohit Mehra,Associate Professor,"Software Engineering, Database Management",CSE,Knowledge Center - 108,dr..hmalhotra@iimt.ac.in,2,Good,International,Journal of Systems and Software (JSS),740,10,1,1
+CSE011,Dr. Kavita Kapoor,Assistant Professor,"Machine Learning, Natural Language Processing",CSE,Library Block - 302,dr..hmalhotra@iimt.ac.in,1,Good,National,Proceedings of the National Conference on Artificial Intelligence (NCAI),650,11,1,2
+CSE012,Dr. Vikas Malhotra,Professor,"Computer Networks, Network Security",CSE,Main Building - 403,dr..hmalhotra@iimt.ac.in,3,Very Good,International,IEEE Transactions on Networking (TON),860,12,2,1
+CSE013,Dr. Preeti Sharma,Associate Professor,"Web Development, Software Testing",CSE,Innovation Hall - 204,dr..hmalhotra@iimt.ac.in,2,Good,National,Journal of Software: Evolution and Process (JSEP),700,13,1,2
+CSE014,Dr. Amitabh Ghosh,Professor,"Operating Systems, Distributed Systems",CSE,Knowledge Center - 101,dr..hmalhotra@iimt.ac.in,5,Excellent,International,ACM SIGOPS Operating Systems Review (OSR),900,14,3,1
+CSE015,Dr. Shweta Banerjee,Associate Professor,"Graphics, Computer Vision",CSE,Library Block - 301,dr..hmalhotra@iimt.ac.in,3,Very Good,National,IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),820,15,2,2
+CSE016,Dr. Rahul Kapoor,Assistant Professor,"Human-Computer Interaction, User Experience Design",CSE,Main Building - 402,dr..hmalhotra@iimt.ac.in,1,Good,National,International Journal of Human-Computer Studies (IJHCS),670,16,1,2
+CSE060,Dr. GSingh,Associate Professor,"Graphics, Compiler Design",CSE,Knowledge Center - 110,dr..gsingh@iimt.ac.in,2,Good,International,Journal of Software Engineering,907,17,1,1
+CSE061,Dr. HMalhotra,Assistant Professor,"NLP, Cybersecurity",CSE,Main Building - 105,dr..hmalhotra@iimt.ac.in,2,Very Good,National,Journal of Algorithms,685,18,2,2
+CSE062,Dr. EVerma,Assistant Professor,"Programming Languages, Distributed Systems",CSE,Innovation Hall - 210,dr..everma@iimt.ac.in,2,Good,International,Journal of Human-Computer Interaction,807,19,1,1
+CSE063,Dr. EBanerjee,Assistant Professor,"Operating Systems, Database Management",CSE,Library Block - 110,dr..ebanerjee@iimt.ac.in,3,Good,National,Journal of Networking,684,20,1,2
+CSE064,Dr. GSharma,Associate Professor,"Cloud Computing, Deep Learning",CSE,Knowledge Center - 109,dr..gsharma@iimt.ac.in,3,Very Good,International,Journal of Web Development,929,21,2,1
+CSE065,Dr. CKapoor,Professor,"Data Structures, Distributed Systems",CSE,Library Block - 210,dr..ckapoor@iimt.ac.in,5,Good,National,Journal of Networking,751,22,1,2
+CSE066,Dr. BGupta,Associate Professor,"Programming Languages, Operating Systems",CSE,Innovation Hall - 101,dr..bgupta@iimt.ac.in,3,Good,International,Journal of Artificial Intelligence,854,23,1,1
+CSE067,Dr. FKapoor,Assistant Professor,"Data Structures, Distributed Systems",CSE,Main Building - 209,dr..fkapoor@iimt.ac.in,3,Excellent,National,Journal of Web Development,897,24,3,2
+CSE068,Dr. JSingh,Associate Professor,"Algorithms, Software Engineering",CSE,Knowledge Center - 107,dr..jsingh@iimt.ac.in,5,Excellent,International,Journal of Data Structures,693,25,3,1
+CSE069,Dr. AVerma,Professor,"Computer Networks, Cloud Computing",CSE,Library Block - 208,dr..averma@iimt.ac.in,4,Good,International,Journal of Artificial Intelligence,719,26,1,1
+CSE070,Dr. DMittal,Associate Professor,"Deep Learning, Compiler Design",CSE,Innovation Hall - 109,dr..dmittal@iimt.ac.in,5,Excellent,National,Journal of Software Engineering,821,27,3,2
+CSE071,Dr. BGupta,Assistant Professor,"Machine Learning, Computer Vision",CSE,Knowledge Center - 108,dr..bgupta@iimt.ac.in,1,Good,International,Journal of Networking,723,28,1,1
+CSE072,Dr. IVerma,Professor,"Human-Computer Interaction, Web Development",CSE,Main Building - 202,dr..iverma@iimt.ac.in,2,Very Good,National,Journal of Algorithms,785,29,2,2
+CSE073,Dr. DMalhotra,Associate Professor,"Software Engineering, Information Security",CSE,Innovation Hall - 110,dr..dmalhotra@iimt.ac.in,3,Excellent,International,Journal of Data Structures,813,30,3,1
+CSE074,Dr. JMittal,Professor,"Graphics, Operating Systems",CSE,Library Block - 107,dr..jmittal@iimt.ac.in,4,Good,National,Journal of Web Development,842,31,1,2
+CSE031,Dr. Riya Kapoor,Assistant Professor,"Human-Computer Interaction, UX Design",CSE,Innovation Hall - 108,dr..hmalhotra@iimt.ac.in,2,Very Good,National,International Journal of Human-Computer Interaction (IJHCI),740,32,2,2
+CSE032,Dr. Amitabh Ghosh,Professor,"Operating Systems, Network Security",CSE,Main Building - 307,dr..hmalhotra@iimt.ac.in,4,Excellent,International,ACM SIGCOMM Computer Communication Review,890,33,3,1
+CSE033,Dr. Shweta Banerjee,Associate Professor,"Graphics, Visualization",CSE,Knowledge Center - 203,dr..hmalhotra@iimt.ac.in,3,Good,National,IEEE Transactions on Visualization and Computer Graphics (TVCG),720,34,1,2
+CSE034,Dr. Abhinav Singh,Assistant Professor,"Software Engineering, Database Management",CSE,Library Block - 309,dr..hmalhotra@iimt.ac.in,2,Good,National,Journal of Software: Evolution and Process (JSEP),690,35,1,2
+CSE035,Dr. Aditi Sharma,Professor,"Machine Learning, Computer Vision",CSE,Innovation Hall - 212,dr..hmalhotra@iimt.ac.in,5,Excellent,International,Pattern Recognition Letters,840,36,3,1
+CSE036,Dr. Rajeev Malhotra,Associate Professor,"Cloud Computing, Big Data",CSE,Knowledge Center - 104,dr..hmalhotra@iimt.ac.in,3,Very Good,National,Journal of Cloud Computing Advances,750,37,2,2
+CSE037,Dr. Priyanka Verma,Assistant Professor,"Programming Languages, Compiler Design",CSE,Library Block - 310,dr..hmalhotra@iimt.ac.in,1,Good,National,Journal of Programming Languages (JPL),660,38,1,2
+CSE038,Dr. Mohit Gupta,Professor,"Data Structures, Algorithms",CSE,Main Building - 301,dr..hmalhotra@iimt.ac.in,6,Very Good,International,ACM Transactions on Algorithms (TALG),820,39,2,1
+CSE039,Dr. Sonia Kapoor,Associate Professor,"Web Development, Human-Computer Interaction",CSE,Innovation Hall - 106,dr..hmalhotra@iimt.ac.in,4,Excellent,National,International Journal of Web Information Systems (IJWIS),800,40,3,2
+CSE040,Dr. Rohit Mehra,Assistant Professor,"Software Engineering, Database Management",CSE,Knowledge Center - 103,dr..hmalhotra@iimt.ac.in,2,Good,International,Journal of Systems and Software (JSS),730,41,1,1
+CSE041,Dr. Kavita Kapoor,Professor,"Machine Learning, Natural Language Processing",CSE,Library Block - 303,dr..hmalhotra@iimt.ac.in,1,Good,National,Proceedings of the National Conference on Artificial Intelligence (NCAI),640,42,1,2
+CSE042,Dr. Vikas Malhotra,Associate Professor,"Computer Networks, Network Security",CSE,Main Building - 409,dr..hmalhotra@iimt.ac.in,3,Very Good,International,IEEE Transactions on Networking (TON),850,43,2,1
+CSE043,Dr. Preeti Sharma,Assistant Professor,"Web Development, Software Testing",CSE,Innovation Hall - 202,dr..hmalhotra@iimt.ac.in,2,Good,National,Journal of Software: Evolution and Process (JSEP),680,44,1,2
+CSE044,Dr. Amitabh Ghosh,Professor,"Operating Systems, Distributed Systems",CSE,Knowledge Center - 100,dr..hmalhotra@iimt.ac.in,5,Excellent,International,ACM SIGOPS Operating Systems Review (OSR),880,45,3,1
+CSE045,Dr. Shweta Banerjee,Associate Professor,"Graphics, Computer Vision",CSE,Library Block - 300,dr..hmalhotra@iimt.ac.in,3,Very Good,National,IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI),810,46,2,2
+CSE046,Dr. Rahul Kapoor,Assistant Professor,"Human-Computer Interaction, User Experience Design",CSE,Main Building - 400,dr..hmalhotra@iimt.ac.in,1,Good,National,IEEE,920,47,1,2
+CSE000,Dr. AJain,Assistant Professor,"Cybersecurity, Software Engineering",CSE,Library Block - 108,dr..ajain@iimt.ac.in,6,Very Good,National,Journal of Software Engineering,935,48,2,2
+CSE001,Dr. HJain,Assistant Professor,"Distributed Systems, LLMs",CSE,Innovation Hall - 101,dr..hjain@iimt.ac.in,3,Good,International,Journal of Networking,917,49,1,1
+CSE002,Dr. DMittal,Assistant Professor,"LLMs, Deep Learning",CSE,Library Block - 204,dr..dmittal@iimt.ac.in,1,Excellent,National,Journal of Artificial Intelligence,776,50,3,2
+CSE003,Dr. IVerma,Assistant Professor,"Web Development, Algorithms",CSE,Knowledge Center - 202,dr..iverma@iimt.ac.in,2,Very Good,International,Journal of Software Engineering,699,51,2,1
+CSE004,Dr. GMalhotra,Associate Professor,"Algorithms, Compiler Design",CSE,Innovation Hall - 210,dr..gmalhotra@iimt.ac.in,3,Good,National,Journal of Machine Learning,837,52,1,2
+CSE005,Dr. HMalhotra,Assistant Professor,"Operating Systems, NLP",CSE,Innovation Hall - 202,dr..hmalhotra@iimt.ac.in,5,Very Good,International,Journal of Web Development,944,53,2,1
+CSE006,Dr. HSharma,Associate Professor,"Distributed Systems, Cybersecurity",CSE,Library Block - 208,dr..hsharma@iimt.ac.in,6,Very Good,National,Journal of Algorithms,735,54,2,2
+CSE007,Dr. DMittal,Assistant Professor,"Operating Systems, Distributed Systems",CSE,Main Building - 110,dr..dmittal@iimt.ac.in,5,Good,National,Journal of Networking,685,55,1,2
+CSE008,Dr. CBanerjee,Professor,"Cloud Computing, Graphics",CSE,Innovation Hall - 202,dr..cbanerjee@iimt.ac.in,1,Very Good,International,Journal of Networking,712,56,2,1
+CSE009,Dr. EJain,Professor,"Computer Networks, NLP",CSE,Innovation Hall - 108,dr..ejain@iimt.ac.in,6,Excellent,International,Journal of Algorithms,685,57,3,1
+CSE010,Dr. IMehra,Professor,"Software Engineering, Compiler Design",CSE,Library Block - 208,dr..imehra@iimt.ac.in,6,Good,National,Journal of Algorithms,817,58,1,2
+CSE011,Dr. JKapoor,Professor,"Computer Vision, Cybersecurity",CSE,Innovation Hall - 109,dr..jkapoor@iimt.ac.in,4,Good,National,Journal of Algorithms,754,59,1,2
+CSE012,Dr. JMittal,Associate Professor,"Computer Networks, Operating Systems",CSE,Library Block - 102,dr..jmittal@iimt.ac.in,4,Good,National,Journal of Programming Languages,773,60,1,2
+CSE013,Dr. CMalhotra,Assistant Professor,"Information Security, Graphics",CSE,Innovation Hall - 201,dr..cmalhotra@iimt.ac.in,3,Excellent,National,Journal of Human-Computer Interaction,898,61,3,2
+CSE014,Dr. AMalhotra,Professor,"Algorithms, Operating Systems",CSE,Knowledge Center - 204,dr..amalhotra@iimt.ac.in,4,Excellent,International,Journal of Networking,710,62,3,1
+CSE001,Dr. Name 1,Assistant Professor,Big Data,CSE,Knowledge Block 230,dr..name.1@delhi.edu.in,20,Good,International,Journal of Big Data Research (Example),895,63,1,1
+CSE002,Dr. Name 2,Professor,Computer Graphics,CSE,Innovation Hall 229,dr..name.2@delhi.edu.in,18,Very Good,National,Journal of Computer Graphics Research (Example),990,64,2,2
+CSE003,Dr. Name 3,Assistant Professor,Cloud Computing,CSE,Cloud Hub 191,dr..name.3@delhi.edu.in,5,Good,International,Journal of Cloud Computing Research (Example),862,65,1,1
+CSE004,Dr. Name 4,Professor,Networking,CSE,Network Annex 219,dr..name.4@delhi.edu.in,7,Excellent,International,Journal of Networking Research (Example),833,66,3,1
+CSE005,Dr. Name 5,Associate Professor,SQL,CSE,Knowledge Block 201,dr..name.5@delhi.edu.in,9,Very Good,International,Journal of SQL Research (Example),850,67,2,1
+CSE006,Dr. Name 6,Assistant Professor,Networking,CSE,Network Annex 222,dr..name.6@delhi.edu.in,20,Very Good,National,Journal of Networking Research (Example),836,68,2,2
+CSE007,Dr. Name 7,Assistant Professor,Cloud Computing,CSE,Cloud Hub 262,dr..name.7@delhi.edu.in,16,Excellent,International,Journal of Cloud Computing Research (Example),936,69,3,1
+CSE008,Dr. Name 8,Assistant Professor,Data Mining,CSE,Knowledge Block 283,dr..name.8@delhi.edu.in,18,Very Good,National,Journal of Data Mining Research (Example),826,70,2,2
+CSE009,Dr. Name 9,Associate Professor,Big Data,CSE,Knowledge Block 221,dr..name.9@delhi.edu.in,9,Good,National,Journal of Big Data Research (Example),898,71,1,2
+CSE010,Dr. Name 10,Associate Professor,Big Data,CSE,Knowledge Block 224,dr..name.10@delhi.edu.in,10,Outstanding,International,Journal of Big Data Research (Example),859,72,4,1
+CSE011,Dr. Name 11,Assistant Professor,Big Data,CSE,Knowledge Block 270,dr..name.11@delhi.edu.in,12,Excellent,International,Journal of Big Data Research (Example),818,73,3,1
+CSE012,Dr. Name 12,Assistant Professor,Big Data,CSE,Knowledge Block 154,dr..name.12@delhi.edu.in,7,Excellent,National,Journal of Big Data Research (Example),904,74,3,2
+CSE013,Dr. Name 13,Assistant Professor,Security,CSE,Security Center 101,dr..name.13@delhi.edu.in,19,Excellent,International,Journal of Security Research (Example),965,75,3,1
+CSE014,Dr. Name 14,Professor,Data Mining,CSE,Knowledge Block 160,dr..name.14@delhi.edu.in,14,Outstanding,International,Journal of Data Mining Research (Example),923,76,4,1
+CSE015,Dr. Name 15,Professor,Software Engineering,CSE,Innovation Hall 211,dr..hmalhotra@iimt.ac.in,12,Good,International,Journal of Software Engineering Research (Example),878,77,1,1
+CSE016,Dr. Name 16,Assistant Professor,Human-Computer Interaction,CSE,Knowledge Block 256,dr..hmalhotra@iimt.ac.in,8,Excellent,International,Journal of Human-Computer Interaction Research (Example),941,78,3,1
+CSE017,Dr. Name 17,Professor,Algorithms,CSE,Knowledge Block 147,dr..hmalhotra@iimt.ac.in,15,Very Good,National,Journal of Algorithms Research (Example),889,79,2,2
+CSE018,Dr. Name 18,Associate Professor,Artificial Intelligence,CSE,Innovation Hall 271,dr..hmalhotra@iimt.ac.in,10,Good,National,Journal of Artificial Intelligence Research (Example),812,80,1,2
+CSE019,Dr. Name 19,Assistant Professor,Machine Learning,CSE,Knowledge Block 245,dr..hmalhotra@iimt.ac.in,3,Outstanding,National,Journal of Machine Learning Research (Example),974,81,4,2
+CSE020,Dr. Name 20,Professor,Operating Systems,CSE,Innovation Hall 234,dr..hmalhotra@iimt.ac.in,11,Good,National,Journal of Operating Systems Research (Example),801,82,1,2
+CSE021,Dr. Name 21,Associate Professor,Programming Languages,CSE,Knowledge Block 290,dr..hmalhotra@iimt.ac.in,6,Good,National,Journal of Programming Languages Research (Example),829,83,1,2
+CSE022,Dr. Name 22,Assistant Professor,Database Systems,CSE,Knowledge Block 302,dr..hmalhotra@iimt.ac.in,4,Excellent,International,Journal of Database Systems Research (Example),915,84,3,1
+CSE023,Dr. Name 23,Professor,Computer Architecture,CSE,Innovation Hall 189,dr..hmalhotra@iimt.ac.in,17,Very Good,National,Journal of Computer Architecture Research (Example),987,85,2,2
+CSE024,Dr. Name 24,Associate Professor,Software Engineering,CSE,Cloud Hub 241,dr..hmalhotra@iimt.ac.in,9,Good,International,Journal of Software Engineering Research (Example),843,86,1,1
+CSE025,Dr. Name 25,Assistant Professor,Cybersecurity,CSE,Security Center 112,dr..hmalhotra@iimt.ac.in,5,Outstanding,International,Journal of Cybersecurity Research (Example),952,87,4,1
+CSE026,Dr. Name 26,Professor,Natural Language Processing,CSE,Knowledge Block 218,dr..hmalhotra@iimt.ac.in,13,Good,International,Journal of Natural Language Processing Research (Example),860,88,1,1
+CSE027,Dr. Name 27,Associate Professor,Information Retrieval,CSE,Knowledge Block 269,dr..hmalhotra@iimt.ac.in,7,Excellent,International,Journal of Information Retrieval Research (Example),939,89,3,1
